@@ -18,7 +18,7 @@ I only wrote a basic loading script, but you can add anything you need. Auto loa
 ### IMG:
 >**public**
 >  - int             EntriesCount
->  - List<DirEntry>  EntriesList
+>  - List\<DirEntry\>  EntriesList
 >
 >**private**
 >  - string          FilePath

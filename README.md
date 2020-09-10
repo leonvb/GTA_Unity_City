@@ -9,8 +9,8 @@ I only wrote a basic loading script, but you can add anything you need. Auto loa
 ## GTA File formats supported
 - IMG
 - DFF
-- IPL
-- IDE
+- IPL (partial)
+- IDE (partial)
 - DAT
 - TXD (partial)
 

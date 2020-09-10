@@ -16,9 +16,9 @@ I only wrote a basic loading script, but you can add anything you need. Auto loa
 
 ## File structures
 ### IMG:
-**public**
-  - int             EntriesCount
-  - List<DirEntry>  EntriesList
-
-**private**
-  - string          FilePath
+>**public**
+>  - int             EntriesCount
+>  - List<DirEntry>  EntriesList
+>
+>**private**
+>  - string          FilePath
